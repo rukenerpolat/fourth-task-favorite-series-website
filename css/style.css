@@ -78,7 +78,7 @@ header {
     text-shadow: 0 5px 10px var(--color-one);
 }
 
-/* HEADER SECTION */
+/*  HEADER SECTION  */
 
 .hero {
     height: 100vh;
@@ -225,7 +225,7 @@ header {
     }
 }
 
-/*  HOME SECTION  */
+/*    HOME SECTION    */
 
 .home {
     text-align: center;
@@ -315,7 +315,6 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.25rem;
     font-family: "Roboto Mono", monospace;
-
 }
 
 #fav-btn:hover {
@@ -352,7 +351,7 @@ header {
     }
 }
 
-/* -----FOOTER----- */
+/*  FOOTER  */
 
 footer {
     margin-top: 5rem;
@@ -419,12 +418,16 @@ footer .copyright {
     }
 }
 
-/* Hamburger Menü Container */
+/* Hamburger Menu */
 .menu-toggle {
     display: none;
     font-size: 2rem;
     cursor: pointer;
     color: var(--color-one);
+}
+
+.nav-links.active {
+    display: flex;
 }
 
 @media (max-width: 768px) {
@@ -450,10 +453,6 @@ footer .copyright {
 
     .menu-toggle {
         display: block;
-    }
-
-    .nav-links.active {
-        display: flex;
     }
 
     .hero-primary {
