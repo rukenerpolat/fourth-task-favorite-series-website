@@ -4,7 +4,7 @@
 
 <div align="center">
     
-🌐 [View Live Page]( ) 
+🌐 [View Live Page](https://favorite-series-website.netlify.app/) 
 
 </div> 
 Proje kapsamında, favori dizimi tanıtan tek sayfalık bir web sitesi tasarladım.  
