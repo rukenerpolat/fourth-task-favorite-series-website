@@ -1,6 +1,6 @@
-<h1 align="center">🎬 Favori Dizi Tanıtım Web Sayfası</h1>
+<h1 align="center"> Favori Dizi Tanıtım Web Sayfası</h1>
 
-<h6 align="center"> [Bu repo, Insider&Testinium Tech Hub Developer Bootcamp ödevi için yapılmıştır.]</h6>   
+<h6 align="center"> [This repository was created for the Insider & Testinium Tech Hub Developer Bootcamp assignment.]</h6>   
 
 <div align="center">
     
@@ -45,15 +45,11 @@ Site tüm cihazlarda uyumlu çalışacak şekilde responsive olarak geliştirilm
 
 ```
 📁 favorite-series-website/
-│
 ├── index.html
-│
 ├── css/
 │   └── style.css
-│
 ├── js/
 │   └── main.js   
-│
 ├── assets/
 │   ├── images/
 │   │   └── ...
@@ -63,33 +59,18 @@ Site tüm cihazlarda uyumlu çalışacak şekilde responsive olarak geliştirilm
 │   │
 │   └── icons/
 │       └──  ...
-│
 └── README.md
 ```
-## Kurulum
-> 💡HTML | CSS | JS
 
-1. Projeyi klonlayın
-   ```
-   git clone https://github.com/rukenerpolat/fourth-task-favorite-series-website.git
-   ```
-2. İlgili klasörü açın
-   ```
-   cd fourth-task-favorite-series-website
-   ```
-3. Browser'da ```index.html``` dosyasını açabilirsiniz.
----
-<br>
-<br>
-<b><em>İncelediğiniz için teşekkür ederim... <br>
-Ruken ERPOLAT </em></b>
-<br>
-<br>
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-827a67?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/rukenerpolat)
 [![GitHub](https://img.shields.io/badge/-GitHub-827a67?style=flat&logo=github&logoColor=white)](https://github.com/rukenerpolat)
 
+Thank you for your visit! 🖖     
+<b><em>Ruken ERPOLAT</em></b> 
 
 <br>
 
